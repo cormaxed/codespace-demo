@@ -1,0 +1,3 @@
+table:
+  schema: public
+  name: billboard_single_by_year

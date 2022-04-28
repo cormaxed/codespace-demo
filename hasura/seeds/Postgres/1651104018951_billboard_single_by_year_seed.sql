@@ -1,0 +1,11 @@
+SET check_function_bodies = false;
+INSERT INTO public.billboard_single_by_year ("position", year, title, artist) VALUES (2, 1980, 'Another Brick in the Wall, Part II', 'Pink Floyd');
+INSERT INTO public.billboard_single_by_year ("position", year, title, artist) VALUES (3, 1980, 'Magic', 'Olivia Newton-John');
+INSERT INTO public.billboard_single_by_year ("position", year, title, artist) VALUES (4, 1980, 'Rock with You', 'Michael Jackson');
+INSERT INTO public.billboard_single_by_year ("position", year, title, artist) VALUES (5, 1980, 'Do That to Me One More Time', 'Captain & Tennille');
+INSERT INTO public.billboard_single_by_year ("position", year, title, artist) VALUES (6, 1980, 'Crazy Little Thing Called Love', 'Queen');
+INSERT INTO public.billboard_single_by_year ("position", year, title, artist) VALUES (7, 1980, 'Coming Up', 'Paul McCartney');
+INSERT INTO public.billboard_single_by_year ("position", year, title, artist) VALUES (8, 1980, 'Funkytown', 'Lipps Inc');
+INSERT INTO public.billboard_single_by_year ("position", year, title, artist) VALUES (9, 1980, 'It''s Still Rock and Roll to Me', 'Billy Joel');
+INSERT INTO public.billboard_single_by_year ("position", year, title, artist) VALUES (10, 1980, 'The Rose', 'Bette Midler');
+INSERT INTO public.billboard_single_by_year ("position", year, title, artist) VALUES (1, 1980, 'Call Me', 'Blondie');
